@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **React JS, NODEJS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Jaiver12](https://github.com/Jaiver12)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Jaiver12](https://github.com/jaiverramosweb)
 
 - 💬 Preguntame sobre **Laravel, VueJS**
 
