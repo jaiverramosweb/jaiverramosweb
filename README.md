@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Jaiver Ramos</h1>
 <h3 align="center">Soy un desarrollador web sin limites</h3>
 
-- 🔭 Estoy trabajando en la empresa [WOLKE S.A.S](https://www.linkedin.com/company/wolkesas/mycompany/)
+- 🔭 Trabajé en la empresa [WOLKE S.A.S](https://www.linkedin.com/company/wolkesas/mycompany/)
 
 - 🌱 Actualmente estoy aprendiendo **React JS**
 
